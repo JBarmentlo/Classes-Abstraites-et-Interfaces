@@ -1,0 +1,11 @@
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\bin\Debug\netcoreapp3.0\Override-VS-New.exe
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\bin\Debug\netcoreapp3.0\Override-VS-New.deps.json
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\bin\Debug\netcoreapp3.0\Override-VS-New.runtimeconfig.json
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\bin\Debug\netcoreapp3.0\Override-VS-New.runtimeconfig.dev.json
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\bin\Debug\netcoreapp3.0\Override-VS-New.dll
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\bin\Debug\netcoreapp3.0\Override-VS-New.pdb
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\obj\Debug\netcoreapp3.0\Override-VS-New.AssemblyInfoInputs.cache
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\obj\Debug\netcoreapp3.0\Override-VS-New.AssemblyInfo.cs
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\obj\Debug\netcoreapp3.0\Override-VS-New.dll
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\obj\Debug\netcoreapp3.0\Override-VS-New.pdb
+C:\Users\Joep\source\repos\Override-VS-New\Override-VS-New\obj\Debug\netcoreapp3.0\Override-VS-New.csprojAssemblyReference.cache
